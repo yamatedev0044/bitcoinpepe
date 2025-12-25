@@ -68,7 +68,7 @@
                     (0, s.jsx)("b", { children: x }),
                     (0, s.jsx)("span", {
                       className: "text-base font-semibold ml-2",
-                      children: "BITPEPE",
+                      children: "BEPE",
                     }),
                   ],
                 }),
@@ -176,7 +176,7 @@
                           children: (null == e ? void 0 : e.earnedToken) || "0",
                         }),
                         " ",
-                        "BITPEPE",
+                        "BEPE",
                       ],
                     }),
                   ],
@@ -1053,7 +1053,7 @@
                       children: [
                         (0, s.jsx)("p", {
                           className: "text-2xl font-semibold uppercase",
-                          children: "BITPEPE",
+                          children: "BEPE",
                         }),
                         (0, s.jsxs)("p", {
                           className:
@@ -2309,7 +2309,7 @@
                       children: [
                         (0, s.jsx)(p(), {
                           src: "/images/logo-pepe.png",
-                          alt: "BITPEPE",
+                          alt: "BEPE",
                           width: 27,
                           height: 27,
                           className: "rounded-full shadow-xl",

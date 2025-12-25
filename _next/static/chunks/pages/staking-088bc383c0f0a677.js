@@ -1343,7 +1343,7 @@
                       '\n{\n  "@context" : "https://schema.org",\n  "@type" : "WebSite",\n  "name" : '
                         .concat(
                           "".concat(n("staking"), " - Bitcoin Pepe"),
-                          ',\n  "alternateName" : ["Bitcoin Pepe", "BITPEPE", "PEP-20"],\n  "url" : "'
+                          ',\n  "alternateName" : ["Bitcoin Pepe", "BEPE", "PEP-20"],\n  "url" : "'
                         )
                         .concat(t)
                         .concat(

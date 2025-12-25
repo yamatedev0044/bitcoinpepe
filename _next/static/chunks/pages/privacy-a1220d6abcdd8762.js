@@ -377,7 +377,7 @@
                   type: "application/ld+json",
                   dangerouslySetInnerHTML: {
                     __html:
-                      '\n{\n  "@context" : "https://schema.org",\n  "@type" : "WebSite",\n  "name" : Privacy Policy - Bitcoin Pepe,\n  "alternateName" : ["Bitcoin Pepe", "BITPEPE", "PEP-20"],\n  "url" : "'
+                      '\n{\n  "@context" : "https://schema.org",\n  "@type" : "WebSite",\n  "name" : Privacy Policy - Bitcoin Pepe,\n  "alternateName" : ["Bitcoin Pepe", "BEPE", "PEP-20"],\n  "url" : "'
                         .concat(t)
                         .concat(
                           "en" === c.language

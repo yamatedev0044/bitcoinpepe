@@ -162,7 +162,7 @@
           alt: "be in crypto",
           width: 104,
           height: 29,
-          link: "https://coingape.com/sponsored/meme-coin-mania-hits-bitcoin-investors-snap-up-BITPEPE-as-demand-soars/",
+          link: "https://coingape.com/sponsored/meme-coin-mania-hits-bitcoin-investors-snap-up-BEPE-as-demand-soars/",
         },
         {
           src: "/images/home/media/coin-telegraph.svg",
@@ -3638,7 +3638,7 @@
                     type: "application/ld+json",
                     dangerouslySetInnerHTML: {
                       __html:
-                        '\n{\n  "@context" : "https://schema.org",\n  "@type" : "WebSite",\n  "name" : "Bitcoin Pepe",\n  "alternateName" : ["Bitcoin Pepe", "BITPEPE", "PEP-20"],\n  "url" : "'
+                        '\n{\n  "@context" : "https://schema.org",\n  "@type" : "WebSite",\n  "name" : "Bitcoin Pepe",\n  "alternateName" : ["Bitcoin Pepe", "BEPE", "PEP-20"],\n  "url" : "'
                           .concat(l, "/")
                           .concat(
                             "en" === i.language ? "" : i.language,

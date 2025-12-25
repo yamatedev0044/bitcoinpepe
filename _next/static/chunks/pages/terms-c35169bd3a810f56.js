@@ -378,7 +378,7 @@
                   type: "application/ld+json",
                   dangerouslySetInnerHTML: {
                     __html:
-                      '\n{\n  "@context" : "https://schema.org",\n  "@type" : "WebSite",\n  "name" : Privacy Policy - Bitcoin Pepe,\n  "alternateName" : ["Bitcoin Pepe", "BITPEPE", "PEP-20"],\n  "url" : "'
+                      '\n{\n  "@context" : "https://schema.org",\n  "@type" : "WebSite",\n  "name" : Privacy Policy - Bitcoin Pepe,\n  "alternateName" : ["Bitcoin Pepe", "BEPE", "PEP-20"],\n  "url" : "'
                         .concat(i)
                         .concat(
                           "en" === p.language
@@ -471,7 +471,7 @@
                             }),
                             (0, t.jsx)("p", {
                               children:
-                                "Bitcoin Pepe (BITPEPE) tokens are utility tokens designed for participation in the ecosystem, including staking, trading, governance, and access to Bitcoin Pepe Layer 2 applications.",
+                                "Bitcoin Pepe (BEPE) tokens are utility tokens designed for participation in the ecosystem, including staking, trading, governance, and access to Bitcoin Pepe Layer 2 applications.",
                             }),
                             (0, t.jsx)("strong", { children: "Tokenomics:" }),
                             (0, t.jsxs)("ul", {
@@ -481,7 +481,7 @@
                                     (0, t.jsx)("strong", {
                                       children: "Total Supply:",
                                     }),
-                                    " 2,100,000,000 BITPEPE (fixed)",
+                                    " 2,100,000,000 BEPE (fixed)",
                                   ],
                                 }),
                                 (0, t.jsx)("li", {

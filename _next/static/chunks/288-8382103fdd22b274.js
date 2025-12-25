@@ -3021,7 +3021,7 @@
             walletAddress: e.walletAddress,
             swapFromCurrency: e.swapFromCurrency,
             swapFromValue: e.swapFromValue,
-            swapToCurrency: "BITPEPE",
+            swapToCurrency: "BEPE",
             swapToValue: e.swapToValue,
             tokenPrice: e.currentStagePrice.toString(),
             ...("swapSuccessful" === f ? { transactionId: e.txId } : {}),
@@ -3035,7 +3035,7 @@
                     transaction_id: e.txId,
                     items: [
                       {
-                        item_name: "BITPEPE",
+                        item_name: "BEPE",
                         item_id: "BITPEPE_id",
                         price: e.currentStagePrice,
                         item_brand: e.swapFromCurrency,
@@ -3653,8 +3653,8 @@
         },
         S = (0, s.createContext)(P),
         _ = {
-          name: "BITPEPE",
-          description: "BITPEPE",
+          name: "BEPE",
+          description: "BEPE",
           url: "https://bitcoinpepe.co/",
           icons: ["https://bitcoinpepe.co/logo.png"],
         },
