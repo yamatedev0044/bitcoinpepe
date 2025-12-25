@@ -399,7 +399,7 @@
               delay: 100,
               children: (0, a.jsx)("iframe", {
                 className: "w-full h-[40vw]  max-lg:h-[60vh] rounded-xl",
-                src: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+                src: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x14845a827a0eb674121a6b4c8891856a932f1572",
                 title: "YouTube video player",
                 allow:
                   "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
@@ -1484,7 +1484,7 @@
                       ],
                     }),
                     (0, a.jsx)("a", {
-                      href: "https://dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                      href: "https://dextools.io/app/en/ether/pair-explorer/0x14845a827a0eb674121a6b4c8891856a932f1572",
                       target: "_blank",
                       className: "max-lg:block max-lg:w-full",
                       children: (0, a.jsx)(C.Z, {
@@ -1765,7 +1765,7 @@
                       line: (0, a.jsx)("span", { className: "underline " }),
                     },
                     values: {
-                      address: "0xcomingsoon",
+                      address: "0x14845a827a0eb674121a6b4c8891856a932f1572",
                     },
                   }),
                   num: "1",
@@ -1819,7 +1819,7 @@
                   className: "overflow-hidden relative",
                   onClick: () => {
                     navigator.clipboard.writeText(
-                      "0xcomingsoon"
+                      "0x14845a827a0eb674121a6b4c8891856a932f1572"
                     ),
                       q.g.success("Address Copied to clipboard");
                   },
@@ -2691,7 +2691,7 @@
                         className:
                           "text-lg leading-none max-lg:text-xs max-lg:leading-[18px]",
                         children:
-                          "0xcomingsoon",
+                          "0x14845a827a0eb674121a6b4c8891856a932f1572",
                       }),
                     ],
                   }),

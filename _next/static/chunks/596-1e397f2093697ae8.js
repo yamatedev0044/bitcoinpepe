@@ -1165,7 +1165,7 @@
         function r() {
           a(!1);
         }
-        let o = "0xcomingsoon";
+        let o = "0x14845a827a0eb674121a6b4c8891856a932f1572";
         return (0, s.jsx)(j.u, {
           show: l,
           as: h.Fragment,
@@ -1715,7 +1715,7 @@
                               E(),
                                 v.g.info("CA copied!"),
                                 navigator.clipboard.writeText(
-                                  "0xcomingsoon"
+                                  "0x14845a827a0eb674121a6b4c8891856a932f1572"
                                 );
                             },
                             children: [
@@ -1765,7 +1765,7 @@
                                       className:
                                         "text-xs font-semibold font-museo",
                                       children:
-                                        "0xcomingsoon",
+                                        "0x14845a827a0eb674121a6b4c8891856a932f1572",
                                     }),
                                   ],
                                 }),
@@ -2224,7 +2224,7 @@
             //     " bg-[#D1852A] border-[3px] border-black rounded-xl w-full max-w-[504px] lg:w-[28.9vw] 3xl:w-[504px] pr-[5px] pb-[5px] shrink-0",
             //   children: (0, s.jsxs)("iframe", {
             //     style: {width: '100%', height: '100%'},
-            //     src: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+            //     src: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x14845a827a0eb674121a6b4c8891856a932f1572",
             //     onLoad: () => document.body.scrollTo()
             //   }),
             // }),
