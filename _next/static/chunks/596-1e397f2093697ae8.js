@@ -1333,7 +1333,7 @@
                                         (0, s.jsx)("span", {
                                           className:
                                             "text-2xl font-freude uppercase",
-                                          children: "$BPEP",
+                                          children: "$BEPE",
                                         }),
                                       ],
                                     }),

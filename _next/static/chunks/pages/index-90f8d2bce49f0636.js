@@ -1068,7 +1068,7 @@
               url: "https://youtu.be/DLWHlbnTVvo",
               image: "/images/blog/video5.jpg",
               title:
-                "Bitcoin Pepe ($BPEP): Countdown zur Ank\xfcndigung! Mein letztes Update vor dem Listing!",
+                "Bitcoin Pepe ($BEPE): Countdown zur Ank\xfcndigung! Mein letztes Update vor dem Listing!",
             },
             {
               url: "https://youtu.be/buBR4jJyO-0",
@@ -1104,7 +1104,7 @@
               url: "https://www.youtube.com/watch?v=DJsblU1iOBQ",
               image: "/images/blog/video1.jpg",
               title:
-                "Missed $BTC? LAST CHANCE to Buy $BPEP Before It EXPLODES!",
+                "Missed $BTC? LAST CHANCE to Buy $BEPE Before It EXPLODES!",
             },
             {
               url: "https://cointelegraph.com/press-releases/bitcoin-pepe-team-announces-cex-listings",
@@ -1401,7 +1401,7 @@
                       className: "relative",
                       children: [
                         (0, a.jsx)(_, {
-                          title: "1,000,000 $BPEP",
+                          title: "1,000,000 $BEPE",
                           className: (0, s.cn)(
                             "relative z-[2] uppercase max-lg:text-center",
                             c && "text-[2.01vw] 3xl:text-4xl max-lg:text-3xl",

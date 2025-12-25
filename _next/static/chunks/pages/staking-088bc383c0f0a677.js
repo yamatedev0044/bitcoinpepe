@@ -65,7 +65,7 @@
                 children: 0,
               }),
               " ",
-              "$BPEP",
+              "$BEPE",
             ],
           });
         },
@@ -260,7 +260,7 @@
                                 className: "text-[30px]",
                                 children: (0, s.uf)(j),
                               }),
-                              " $BPEP",
+                              " $BEPE",
                             ],
                           }),
                         ],
@@ -284,7 +284,7 @@
                         value: y,
                         className: "",
                         placeholder: "0",
-                        suffix: "$BPEP",
+                        suffix: "$BEPE",
                         onChange: (e) => {
                           console.log("onChange", e),
                             N(
@@ -476,7 +476,7 @@
                       ),
                     }),
                     " ",
-                    "$BPEP",
+                    "$BEPE",
                   ],
                 }),
                 (0, a.jsx)(j(), {
